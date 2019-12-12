@@ -130,7 +130,3 @@ gitignore(){
   code ~/.gitignore
 }
 
-
-export PATH="$PATH:/home/a/Programs/apache-activemq-5.15.10/bin:"
-
-
